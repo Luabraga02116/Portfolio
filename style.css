@@ -161,8 +161,10 @@
     }
     h2 {
         color: white;
+        font-style:oblique
     }
     
     h1 {
         margin-bottom: 20px; /* Adiciona uma margem de 20px na parte inferior do h1 */
+        
     }
